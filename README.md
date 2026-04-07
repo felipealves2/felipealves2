@@ -1,14 +1,11 @@
 
+<!--Boas Vindas -->
 <div id="user-content-toc">
    <ul align="center"> 
 <summary><h1 style="display: inline-block">Bem-vindo(a) ao meu perfil</h1></summary>
 </div>
 
 
-<!-- SNAKE -->
-<div align="center">
-<img src="https://github.com/1939AZZZ48/1999AZZAR/blcb/main/resources/img/grid-snake.svg"
-alt="snake" /></a>
 
 <br>
 
@@ -45,5 +42,10 @@ alt="snake" /></a>
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
+<br>
 
+<!-- SNAKE -->
+<div align="center">
+<img src="https://github.com/1939AZZZ48/1999AZZAR/blcb/main/resources/img/grid-snake.svg"
+alt="snake" /></a>
 
