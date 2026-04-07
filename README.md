@@ -5,9 +5,9 @@
 <summary><h1 style="display: inline-block">Bem-vindo(a) ao meu perfil</h1></summary>
 </div>
 
-
-
 <br>
+
+<!--estatística-->
 
 <div align="center">
   <a href="https://github.com/felipealves2">
@@ -15,8 +15,19 @@
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipealves2&layout=compact&langs_count=6&theme=tokyonight" />
   </a>
 </div>
-    
-<div style="display: inline_block"><br>
+
+<br>
+
+
+<!-- Programming Languages: -->
+
+<div id="languages">
+   <ul align="left"> 
+<h4 style="display: inline-block">My Programming Languages</h4>
+</div>
+
+
+<div style="display: inline_block,"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
