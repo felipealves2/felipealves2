@@ -54,7 +54,6 @@
 <br>
 
 <!-- SNAKE -->
-<div align="center">
-<img src="https://github.com/1939AZZZ48/1999AZZAR/blcb/main/resources/img/grid-snake.svg"
-alt="snake" /></a>
+
+
 
